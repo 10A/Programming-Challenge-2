@@ -8,7 +8,7 @@ This is a team challenge. All members of the team should have a go at completing
 
 ##Task
 
-Square numbers are numebrs whose sqaure roots are integers.  How many square numbers are there under a million?
+Square numbers are numebrs whose square roots are integers.  How many square numbers are there under a million?
 
 
 ##How to do this.
